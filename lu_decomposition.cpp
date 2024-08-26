@@ -1,3 +1,7 @@
+/*
+ * LU Decomposition method is used to decompose a square matrix into a product of a lower triangular matrix (L) and an upper triangular matrix (U).
+ */
+
 #include <iostream>
 #include <vector>
 
